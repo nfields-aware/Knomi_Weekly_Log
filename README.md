@@ -12,5 +12,8 @@ uploaded a copy with comments
 for python file:
 
 pip install pymongo 
+
+
+
 using metabase to visualize data:
 https://solutions.aware-demos.com/reports/
